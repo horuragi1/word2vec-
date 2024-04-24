@@ -1,4 +1,4 @@
-word2vec 단어 유사도 분석
+# word2vec 단어 유사도 분석
 
 ![스크린샷, 2024-04-17 17-17-32](https://github.com/horuragi1/word2vec_word_similarity/assets/102857746/e48da512-6c23-44e8-a095-ffdc2fcd383b)
 
